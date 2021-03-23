@@ -1,0 +1,1 @@
+cd %~dp0 && werl +W w -sname myapp -pa ./ebin -s myapp_app
